@@ -43,8 +43,8 @@ Run the application:
   
 ## Screenshots
 
-![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-06-01%20132115.png)
-![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-06-01%20132130.png)
+[![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/screenshot%20(2).png)
+![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/screenshot%20(2).png)
 
 
   
