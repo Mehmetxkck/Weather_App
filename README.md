@@ -44,7 +44,7 @@ Run the application:
 ## Screenshots
 
 [![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/screenshot%20(2).png)
-![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/screenshot%20(2).png)
+![Screenshot](https://github.com/Mehmetxkck/Weather_App/blob/main/screenshot.png)
 
 
   
